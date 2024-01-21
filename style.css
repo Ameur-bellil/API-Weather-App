@@ -1,0 +1,11 @@
+#city-input, #weather-output {
+    max-width: 400px;
+    margin: 0 auto;
+    border: 3px solid black;
+    background-color: rgb(182, 237, 237);
+}
+  
+.banner {
+    color: teal;
+    font-family: 'Merriweather', serif;
+}
